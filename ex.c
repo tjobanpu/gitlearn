@@ -1,10 +1,6 @@
  #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
-//trying rebasea
-//trying mergea
-//trying interactive rebase
-//trying interactive rebase1
 typedef struct{
 int x;
 int y;
