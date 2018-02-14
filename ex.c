@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<string.h>
 //trying rebasea
-//trying merge
+/trying merge
 typedef struct{
 int x;
 int y;
